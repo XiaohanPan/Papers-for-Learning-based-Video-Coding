@@ -9,8 +9,27 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 ## Table of contents
 <!-- - [Survey paper](#survey-paper)
 - [Table of contents](#table-of-contents) -->
+- [Autoencoder based Coding](#autoencoder-based-coding-model)
+- [Hybrid Coding](#hybrid-coding-model)
+  - [Residual Coding](#residual-coding)
+  - [Conditional Coding](#conditional-coding)
+- [INR based Coding](#inr-based-coding)
 
-### Video Compression
+### Autoencoder based Coding Model
+| Models | Paper | First Author | Venue | Project |
+| :--: | :---: | :--: | :--: | :--: |
+
+### Hybrid Coding Model
+
+#### Residual Coding
+| Models | Paper | First Author | Venue | Project |
+| :--: | :---: | :--: | :--: | :--: |
+
+#### Conditional Coding
 | Models | Paper | First Author | Venue | Project |
 | :--: | :---: | :--: | :--: | :--: |
 | DCVC-FM | [Neural Video Compression with Feature Modulation](https://arxiv.org/abs/2402.17414) | Jiahao Li | CVPR 2024 | [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/DCVC)](https://github.com/microsoft/DCVC/tree/main/DCVC-FM) |
+
+### INR based Coding
+| Models | Paper | First Author | Venue | Project |
+| :--: | :---: | :--: | :--: | :--: |
