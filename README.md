@@ -13,4 +13,4 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 ### Video Compression
 | Models | Paper | First Author | Venue | Project |
 | :--: | :---: | :--: | :--: | :--: |
-| DCVC-FM | [Neural Video Compression with Feature Modulation](https://arxiv.org/abs/2402.17414) | Jiahao Li | CVPR 2024 | [![Stars](https://img.shields.io/github/stars/Janspiry/Image-Super-Resolution-via-Iterative-Refinement.svg?style=social&label=Star)](https://github.com/microsoft/DCVC/tree/main/DCVC-FM) |
+| DCVC-FM | [Neural Video Compression with Feature Modulation](https://arxiv.org/abs/2402.17414) | Jiahao Li | CVPR 2024 | [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/DCVC)](https://github.com/microsoft/DCVC/tree/main/DCVC-FM) |
