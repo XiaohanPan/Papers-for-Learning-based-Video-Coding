@@ -43,6 +43,15 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 | Models | Paper | First Author | Venue | Project |
 | :--: | :---: | :--: | :--: | :--: |
 | DCVC-FM | [Neural Video Compression with Feature Modulation](https://arxiv.org/abs/2402.17414) | Jiahao Li | CVPR 2024 | [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/DCVC)](https://github.com/microsoft/DCVC/tree/main/DCVC-FM) |
+| DCVC-DC | [Neural Video Compression with Diverse Contexts](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Neural_Video_Compression_With_Diverse_Contexts_CVPR_2023_paper.pdf) | Jiahao Li | CVPR 2023 | [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/DCVC)](https://github.com/microsoft/DCVC/tree/main/DCVC-DC) |
+| DCVC-MIP | [Motion Information Propagation for Neural Video Compression](https://openaccess.thecvf.com/content/CVPR2023/papers/Qi_Motion_Information_Propagation_for_Neural_Video_Compression_CVPR_2023_paper.pdf) | Linfeng Qi | CVPR 2023 |  |
+| MIMT | [MIMT: Masked Image Modeling Transformer for Video Compression](https://openreview.net/pdf?id=j9m-mVnndbm) | Jinxi Xiang | ICLR 2023 |  |
+| DCVC-HEM | [Hybrid Spatial-Temporal Entropy Modelling for Neural Video Compression](https://dl.acm.org/doi/pdf/10.1145/3503161.3547845) | Jiahao Li | ACM MM 2022 | [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/DCVC)](https://github.com/microsoft/DCVC/tree/main/DCVC-HEM) |
+| CANF-VC | [CANF-VC: Conditional Augmented Normalizing Flows for Video Compression](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136760193.pdf) | Yung-Han Ho | ECCV 2022 | [![GitHub Repo stars](https://img.shields.io/github/stars/NYCU-MAPL/CANF-VC)](https://github.com/NYCU-MAPL/CANF-VC) |
+| DCVC-TCM | [Temporal Context Mining for Learned Video Compression](https://ieeexplore.ieee.org/abstract/document/9941493) | Xihua Sheng | TMM 2022 | [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/DCVC)](https://github.com/microsoft/DCVC/tree/main/DCVC-TCM) |
+| DCVC | [Deep Contextual Video Compression](https://proceedings.neurips.cc/paper/2021/file/96b250a90d3cf0868c83f8c965142d2a-Paper.pdf) | Jiahao Li | NeurIPS 2021 | [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/DCVC)](https://github.com/microsoft/DCVC/tree/main/DCVC) |
+| ELF-VC | [ELF-VC: Efficient Learned Flexible-Rate Video Coding](https://openaccess.thecvf.com/content/ICCV2021/papers/Rippel_ELF-VC_Efficient_Learned_Flexible-Rate_Video_Coding_ICCV_2021_paper.pdf) | Oren Rippel, Alexander G. Anderson | ICCV 2021 |  |
+
 
 ### INR based Coding
 | Models | Paper | First Author | Venue | Project |
