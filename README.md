@@ -56,3 +56,8 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 ### INR based Coding
 | Models | Paper | First Author | Venue | Project |
 | :--: | :---: | :--: | :--: | :--: |
+|  | [Boosting Neural Representations for Videos with a Conditional Decoder](https://arxiv.org/pdf/2402.18152.pdf) | Xinjie Zhang | CVPR 2024 |  |
+| HiNeRV | [HiNeRV: Video Compression with Hierarchical Encoding-based Neural Representation](https://proceedings.neurips.cc/paper_files/paper/2023/file/e5dc475c370ff42f2f96dddf8191a40c-Paper-Conference.pdf) | Ho Man Kwan | NeurIPS 2023 | [![GitHub Repo stars](https://img.shields.io/github/stars/hmkx/HiNeRV)](https://github.com/hmkx/HiNeRV) |
+| HNeRV | [HNeRV: A Hybrid Neural Representation for Videos](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_HNeRV_A_Hybrid_Neural_Representation_for_Videos_CVPR_2023_paper.pdf) | Hao Chen | CVPR 2023 | [![GitHub Repo stars](https://img.shields.io/github/stars/haochen-rye/HNeRV)](https://github.com/haochen-rye/HNeRV) |
+| E-NeRV | [E-NeRV: Expedite Neural Video Representation with Disentangled Spatial-Temporal Context](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136950263.pdf) | Zizhang Li | ECCV 2022 | [![GitHub Repo stars](https://img.shields.io/github/stars/kyleleey/E-NeRV)](https://github.com/kyleleey/E-NeRV) |
+| NeRV | [NeRV: Neural Representations for Videos](https://proceedings.neurips.cc/paper_files/paper/2021/file/b44182379bf9fae976e6ae5996e13cd8-Paper.pdf) | Hao Chen | NeurIPS 2021 | [![GitHub Repo stars](https://img.shields.io/github/stars/haochen-rye/NeRV)](https://github.com/haochen-rye/NeRV) |
