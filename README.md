@@ -9,12 +9,15 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 ## Table of contents
 <!-- - [Survey paper](#survey-paper)
 - [Table of contents](#table-of-contents) -->
-- [Autoencoder based Coding](#autoencoder-based-coding-model)
-- [Hybrid Coding](#hybrid-coding-model)
-  - [Residual Coding](#residual-coding)
-  - [Conditional Coding](#conditional-coding)
-- [INR based Coding](#inr-based-coding)
+- Codec Architecture
+  - [Autoencoder based Coding](#autoencoder-based-coding-model)
+  - [Hybrid Coding](#hybrid-coding-model)
+    - [Residual Coding](#residual-coding)
+    - [Conditional Coding](#conditional-coding)
+  - [INR based Coding](#inr-based-coding)
+- Codec Functionality
 
+## Codec Architecture
 ### Autoencoder based Coding Model
 | Models | Paper | First Author | Venue | Project |
 | :--: | :---: | :--: | :--: | :--: |
@@ -52,7 +55,6 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 | DCVC | [Deep Contextual Video Compression](https://proceedings.neurips.cc/paper/2021/file/96b250a90d3cf0868c83f8c965142d2a-Paper.pdf) | Jiahao Li | NeurIPS 2021 | [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/DCVC)](https://github.com/microsoft/DCVC/tree/main/DCVC) |
 | ELF-VC | [ELF-VC: Efficient Learned Flexible-Rate Video Coding](https://openaccess.thecvf.com/content/ICCV2021/papers/Rippel_ELF-VC_Efficient_Learned_Flexible-Rate_Video_Coding_ICCV_2021_paper.pdf) | Oren Rippel, Alexander G. Anderson | ICCV 2021 |  |
 
-
 ### INR based Coding
 | Models | Paper | First Author | Venue | Project |
 | :--: | :---: | :--: | :--: | :--: |
@@ -61,3 +63,8 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 | HNeRV | [HNeRV: A Hybrid Neural Representation for Videos](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_HNeRV_A_Hybrid_Neural_Representation_for_Videos_CVPR_2023_paper.pdf) | Hao Chen | CVPR 2023 | [![GitHub Repo stars](https://img.shields.io/github/stars/haochen-rye/HNeRV)](https://github.com/haochen-rye/HNeRV) |
 | E-NeRV | [E-NeRV: Expedite Neural Video Representation with Disentangled Spatial-Temporal Context](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136950263.pdf) | Zizhang Li | ECCV 2022 | [![GitHub Repo stars](https://img.shields.io/github/stars/kyleleey/E-NeRV)](https://github.com/kyleleey/E-NeRV) |
 | NeRV | [NeRV: Neural Representations for Videos](https://proceedings.neurips.cc/paper_files/paper/2021/file/b44182379bf9fae976e6ae5996e13cd8-Paper.pdf) | Hao Chen | NeurIPS 2021 | [![GitHub Repo stars](https://img.shields.io/github/stars/haochen-rye/NeRV)](https://github.com/haochen-rye/NeRV) |
+
+## Codec Functionality
+| Models | Paper | First Author | Venue | Project |
+| :--: | :---: | :--: | :--: | :--: |
+| | [Neural Rate Control for Learned Video Compression](https://openreview.net/pdf?id=42lcaojZug) | Yiwei Zhang | ICLR 2024 |  |
