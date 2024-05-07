@@ -52,7 +52,9 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 | Models | Paper | First Author | Venue | Project |
 | :--: | :---: | :--: | :--: | :--: |
 |  | [Blurry Video Compression: A Trade-off between Visual Enhancement and Data Compression](https://openaccess.thecvf.com/content/WACV2024/papers/Argaw_Blurry_Video_Compression_A_Trade-Off_Between_Visual_Enhancement_and_Data_WACV_2024_paper.pdf) | Dawit Mureja Argaw | WACV 2024 |  |
+| | [MPAI-EEV: Standardization Efforts of Artificial Intelligence based End-to-End Video Coding](https://ieeexplore.ieee.org/document/10234441) | Chuanmin Jia | TCSVT 2023 | [![Website](https://img.shields.io/badge/Visit-Website-green)](https://mpai.community/standards/mpai-eev/) [![GitHub Repo stars](https://img.shields.io/github/stars/yefeng00/EEV-0.4)](https://github.com/yefeng00/EEV-0.4) |
 | ENVC | [Learning Cross-Scale Weighted Prediction for Efficient Neural Video Compression](https://ieeexplore.ieee.org/abstract/document/10159648) | Zongyu Guo | TIP 2023 | [![GitHub Repo stars](https://img.shields.io/github/stars/USTC-IMCL/ENVC)](https://github.com/USTC-IMCL/ENVC) |
+|  | [Learned Video Compression With Efficient Temporal Context Learning](https://ieeexplore.ieee.org/document/10129217) | Dengchao Jin | TIP 2023 |  |
 | | [Insights from Generative Modeling for Neural Video Compression](https://ieeexplore.ieee.org/abstract/document/10078276) | Ruihan Yang | TPAMI 2023 |  |
 | C2F | [Coarse-to-fine Deep Video Coding with Hyperprior-guided Mode Prediction](https://openaccess.thecvf.com/content/CVPR2022/papers/Hu_Coarse-To-Fine_Deep_Video_Coding_With_Hyperprior-Guided_Mode_Prediction_CVPR_2022_paper.pdf) | Zhihao Hu | CVPR 2022 |  |
 | RLVC | [Learning for Video Compression With Recurrent Auto-Encoder and Recurrent Probability Model](https://ieeexplore.ieee.org/abstract/document/9288876) | Ren Yang | JSTSP 2020 | [![GitHub Repo stars](https://img.shields.io/github/stars/RenYang-home/RLVC)](https://github.com/RenYang-home/RLVC) |
@@ -79,3 +81,4 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 | :--: | :---: | :--: | :--: | :--: |
 |  | [MobileNVC: Real-Time 1080p Neural Video Compression on a Mobile Device](https://openaccess.thecvf.com/content/WACV2024/papers/van_Rozendaal_MobileNVC_Real-Time_1080p_Neural_Video_Compression_on_a_Mobile_Device_WACV_2024_paper.pdf) | Ties van Rozendaal | WACV 2024 |  |
 |  | [Neural Rate Control for Learned Video Compression](https://openreview.net/pdf?id=42lcaojZug) | Yiwei Zhang | ICLR 2024 |  |
+|  | [Sparse-to-Dense: High Efficiency Rate Control for End-to-end Scale-Adaptive Video Coding](https://ieeexplore.ieee.org/document/10246313) | Jiancong Chen | TCSVT 2023 |  |
