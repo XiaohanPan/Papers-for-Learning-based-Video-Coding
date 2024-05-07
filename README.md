@@ -9,13 +9,13 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 ## Table of contents
 <!-- - [Survey paper](#survey-paper)
 - [Table of contents](#table-of-contents) -->
-- Codec Architecture
+- [Codec Architecture](#codec-architecture)
   - [Autoencoder based Coding](#autoencoder-based-coding-model)
   - [Hybrid Coding](#hybrid-coding-model)
     - [Residual Coding](#residual-coding)
     - [Conditional Coding](#conditional-coding)
   - [INR based Coding](#inr-based-coding)
-- Codec Functionality
+- [Codec Practicality](#codec-practicality)
 
 ## Codec Architecture
 ### Autoencoder based Coding Model
@@ -27,10 +27,33 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 
 ### Hybrid Coding Model
 
+#### Conditional Residual Coding
+| Models | Paper | First Author | Venue | Project |
+| :--: | :---: | :--: | :--: | :--: |
+|  | [Conditional Residual Coding: A Remedy for Bottleneck Problems in Conditional Inter Frame Coding](https://ieeexplore.ieee.org/document/10416172) | Fabian Brand | TCSVT 2024 |  |
+
+#### Conditional Coding
+| Models | Paper | First Author | Venue | Project |
+| :--: | :---: | :--: | :--: | :--: |
+| DCVC-FM | [Neural Video Compression with Feature Modulation](https://arxiv.org/abs/2402.17414) | Jiahao Li | CVPR 2024 | [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/DCVC)](https://github.com/microsoft/DCVC/tree/main/DCVC-FM) |
+|  | [Spatial Decomposition and Temporal Fusion based Inter Prediction for Learned Video Compression](https://ieeexplore.ieee.org/abstract/document/10416688) | Xihua Sheng | TCSVT 2024 |  |
+|  | [Exploring Long- and Short-Range Temporal Information for Learned Video Compression](https://ieeexplore.ieee.org/document/10388053) | Huairui Wang | TIP 2024 |  |
+|  | [B-CANF: Adaptive B-frame Coding with Conditional Augmented Normalizing Flows](https://ieeexplore.ieee.org/abstract/document/10201921) | Mu-Jung Chen | TCSVT 2023 |  |
+| DCVC-DC | [Neural Video Compression with Diverse Contexts](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Neural_Video_Compression_With_Diverse_Contexts_CVPR_2023_paper.pdf) | Jiahao Li | CVPR 2023 | [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/DCVC)](https://github.com/microsoft/DCVC/tree/main/DCVC-DC) |
+| DCVC-MIP | [Motion Information Propagation for Neural Video Compression](https://openaccess.thecvf.com/content/CVPR2023/papers/Qi_Motion_Information_Propagation_for_Neural_Video_Compression_CVPR_2023_paper.pdf) | Linfeng Qi | CVPR 2023 |  |
+| MIMT | [MIMT: Masked Image Modeling Transformer for Video Compression](https://openreview.net/pdf?id=j9m-mVnndbm) | Jinxi Xiang | ICLR 2023 |  |
+| DCVC-HEM | [Hybrid Spatial-Temporal Entropy Modelling for Neural Video Compression](https://dl.acm.org/doi/pdf/10.1145/3503161.3547845) | Jiahao Li | ACM MM 2022 | [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/DCVC)](https://github.com/microsoft/DCVC/tree/main/DCVC-HEM) |
+| CANF-VC | [CANF-VC: Conditional Augmented Normalizing Flows for Video Compression](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136760193.pdf) | Yung-Han Ho | ECCV 2022 | [![GitHub Repo stars](https://img.shields.io/github/stars/NYCU-MAPL/CANF-VC)](https://github.com/NYCU-MAPL/CANF-VC) |
+| DCVC-TCM | [Temporal Context Mining for Learned Video Compression](https://ieeexplore.ieee.org/abstract/document/9941493) | Xihua Sheng | TMM 2022 | [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/DCVC)](https://github.com/microsoft/DCVC/tree/main/DCVC-TCM) |
+| DCVC | [Deep Contextual Video Compression](https://proceedings.neurips.cc/paper/2021/file/96b250a90d3cf0868c83f8c965142d2a-Paper.pdf) | Jiahao Li | NeurIPS 2021 | [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/DCVC)](https://github.com/microsoft/DCVC/tree/main/DCVC) |
+| ELF-VC | [ELF-VC: Efficient Learned Flexible-Rate Video Coding](https://openaccess.thecvf.com/content/ICCV2021/papers/Rippel_ELF-VC_Efficient_Learned_Flexible-Rate_Video_Coding_ICCV_2021_paper.pdf) | Oren Rippel, Alexander G. Anderson | ICCV 2021 |  |
+
 #### Residual Coding
 | Models | Paper | First Author | Venue | Project |
 | :--: | :---: | :--: | :--: | :--: |
+|  | [Blurry Video Compression: A Trade-off between Visual Enhancement and Data Compression](https://openaccess.thecvf.com/content/WACV2024/papers/Argaw_Blurry_Video_Compression_A_Trade-Off_Between_Visual_Enhancement_and_Data_WACV_2024_paper.pdf) | Dawit Mureja Argaw | WACV 2024 |  |
 | ENVC | [Learning Cross-Scale Weighted Prediction for Efficient Neural Video Compression](https://ieeexplore.ieee.org/abstract/document/10159648) | Zongyu Guo | TIP 2023 | [![GitHub Repo stars](https://img.shields.io/github/stars/USTC-IMCL/ENVC)](https://github.com/USTC-IMCL/ENVC) |
+| | [Insights from Generative Modeling for Neural Video Compression](https://ieeexplore.ieee.org/abstract/document/10078276) | Ruihan Yang | TPAMI 2023 |  |
 | C2F | [Coarse-to-fine Deep Video Coding with Hyperprior-guided Mode Prediction](https://openaccess.thecvf.com/content/CVPR2022/papers/Hu_Coarse-To-Fine_Deep_Video_Coding_With_Hyperprior-Guided_Mode_Prediction_CVPR_2022_paper.pdf) | Zhihao Hu | CVPR 2022 |  |
 | RLVC | [Learning for Video Compression With Recurrent Auto-Encoder and Recurrent Probability Model](https://ieeexplore.ieee.org/abstract/document/9288876) | Ren Yang | JSTSP 2020 | [![GitHub Repo stars](https://img.shields.io/github/stars/RenYang-home/RLVC)](https://github.com/RenYang-home/RLVC) |
 | FVC | [FVC: A New Framework towards Deep Video Compression in Feature Space](https://openaccess.thecvf.com/content/CVPR2021/papers/Hu_FVC_A_New_Framework_Towards_Deep_Video_Compression_in_Feature_CVPR_2021_paper.pdf) | Zhihao Hu | CVPR 2021 | [![GitHub Repo stars](https://img.shields.io/github/stars/ZhihaoHu/PyTorchVideoCompression)](https://github.com/ZhihaoHu/PyTorchVideoCompression/tree/master/FVC) |
@@ -42,19 +65,6 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 |  | [Learned Video Compression](https://openaccess.thecvf.com/content_ICCV_2019/papers/Rippel_Learned_Video_Compression_ICCV_2019_paper.pdf) | Oren Rippel | ICCV 2019 |  |
 | PMCNN | [Learning for Video Compression](https://ieeexplore.ieee.org/document/8610323) | Zhibo Chen | TCSVT 2019 |  |
 
-#### Conditional Coding
-| Models | Paper | First Author | Venue | Project |
-| :--: | :---: | :--: | :--: | :--: |
-| DCVC-FM | [Neural Video Compression with Feature Modulation](https://arxiv.org/abs/2402.17414) | Jiahao Li | CVPR 2024 | [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/DCVC)](https://github.com/microsoft/DCVC/tree/main/DCVC-FM) |
-| DCVC-DC | [Neural Video Compression with Diverse Contexts](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Neural_Video_Compression_With_Diverse_Contexts_CVPR_2023_paper.pdf) | Jiahao Li | CVPR 2023 | [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/DCVC)](https://github.com/microsoft/DCVC/tree/main/DCVC-DC) |
-| DCVC-MIP | [Motion Information Propagation for Neural Video Compression](https://openaccess.thecvf.com/content/CVPR2023/papers/Qi_Motion_Information_Propagation_for_Neural_Video_Compression_CVPR_2023_paper.pdf) | Linfeng Qi | CVPR 2023 |  |
-| MIMT | [MIMT: Masked Image Modeling Transformer for Video Compression](https://openreview.net/pdf?id=j9m-mVnndbm) | Jinxi Xiang | ICLR 2023 |  |
-| DCVC-HEM | [Hybrid Spatial-Temporal Entropy Modelling for Neural Video Compression](https://dl.acm.org/doi/pdf/10.1145/3503161.3547845) | Jiahao Li | ACM MM 2022 | [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/DCVC)](https://github.com/microsoft/DCVC/tree/main/DCVC-HEM) |
-| CANF-VC | [CANF-VC: Conditional Augmented Normalizing Flows for Video Compression](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136760193.pdf) | Yung-Han Ho | ECCV 2022 | [![GitHub Repo stars](https://img.shields.io/github/stars/NYCU-MAPL/CANF-VC)](https://github.com/NYCU-MAPL/CANF-VC) |
-| DCVC-TCM | [Temporal Context Mining for Learned Video Compression](https://ieeexplore.ieee.org/abstract/document/9941493) | Xihua Sheng | TMM 2022 | [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/DCVC)](https://github.com/microsoft/DCVC/tree/main/DCVC-TCM) |
-| DCVC | [Deep Contextual Video Compression](https://proceedings.neurips.cc/paper/2021/file/96b250a90d3cf0868c83f8c965142d2a-Paper.pdf) | Jiahao Li | NeurIPS 2021 | [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/DCVC)](https://github.com/microsoft/DCVC/tree/main/DCVC) |
-| ELF-VC | [ELF-VC: Efficient Learned Flexible-Rate Video Coding](https://openaccess.thecvf.com/content/ICCV2021/papers/Rippel_ELF-VC_Efficient_Learned_Flexible-Rate_Video_Coding_ICCV_2021_paper.pdf) | Oren Rippel, Alexander G. Anderson | ICCV 2021 |  |
-
 ### INR based Coding
 | Models | Paper | First Author | Venue | Project |
 | :--: | :---: | :--: | :--: | :--: |
@@ -64,7 +74,8 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 | E-NeRV | [E-NeRV: Expedite Neural Video Representation with Disentangled Spatial-Temporal Context](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136950263.pdf) | Zizhang Li | ECCV 2022 | [![GitHub Repo stars](https://img.shields.io/github/stars/kyleleey/E-NeRV)](https://github.com/kyleleey/E-NeRV) |
 | NeRV | [NeRV: Neural Representations for Videos](https://proceedings.neurips.cc/paper_files/paper/2021/file/b44182379bf9fae976e6ae5996e13cd8-Paper.pdf) | Hao Chen | NeurIPS 2021 | [![GitHub Repo stars](https://img.shields.io/github/stars/haochen-rye/NeRV)](https://github.com/haochen-rye/NeRV) |
 
-## Codec Functionality
+## Codec Practicality
 | Models | Paper | First Author | Venue | Project |
 | :--: | :---: | :--: | :--: | :--: |
-| | [Neural Rate Control for Learned Video Compression](https://openreview.net/pdf?id=42lcaojZug) | Yiwei Zhang | ICLR 2024 |  |
+|  | [MobileNVC: Real-Time 1080p Neural Video Compression on a Mobile Device](https://openaccess.thecvf.com/content/WACV2024/papers/van_Rozendaal_MobileNVC_Real-Time_1080p_Neural_Video_Compression_on_a_Mobile_Device_WACV_2024_paper.pdf) | Ties van Rozendaal | WACV 2024 |  |
+|  | [Neural Rate Control for Learned Video Compression](https://openreview.net/pdf?id=42lcaojZug) | Yiwei Zhang | ICLR 2024 |  |
