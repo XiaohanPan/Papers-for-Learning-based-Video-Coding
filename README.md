@@ -17,6 +17,7 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
     - [Residual Coding](#residual-coding)
   - [INR based Coding](#inr-based-coding)
   - [Framework-independent Optimization](#framework-independent-optimization)
+- [Codec Scalability](#codec-scalability)
 - [Codec Practicality](#codec-practicality)
 
 ## Codec Performance
@@ -42,6 +43,7 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 |  | [Exploring Long- and Short-Range Temporal Information for Learned Video Compression](https://ieeexplore.ieee.org/document/10388053) | Huairui Wang | TIP 2024 |  |
 |  | [Enhanced Context Mining and Filtering for Learned Video Compression](https://ieeexplore.ieee.org/document/10254316) | Haifeng Guo | TMM 2023 |  |
 |  | [B-CANF: Adaptive B-frame Coding with Conditional Augmented Normalizing Flows](https://ieeexplore.ieee.org/abstract/document/10201921) | Mu-Jung Chen | TCSVT 2023 |  |
+|  | [Neural Video Compression with Spatio-Temporal Cross-Covariance Transformers](https://dl.acm.org/doi/pdf/10.1145/3581783.3611960) | Zhenghao Chen | ACM MM 2023 |  |
 | DCVC-DC | [Neural Video Compression with Diverse Contexts](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Neural_Video_Compression_With_Diverse_Contexts_CVPR_2023_paper.pdf) | Jiahao Li | CVPR 2023 | [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/DCVC)](https://github.com/microsoft/DCVC/tree/main/DCVC-DC) |
 | DCVC-MIP | [Motion Information Propagation for Neural Video Compression](https://openaccess.thecvf.com/content/CVPR2023/papers/Qi_Motion_Information_Propagation_for_Neural_Video_Compression_CVPR_2023_paper.pdf) | Linfeng Qi | CVPR 2023 |  |
 |  | [Hierarchical B-Frame Video Coding Using Two-Layer CANF Without Motion Coding](https://openaccess.thecvf.com/content/CVPR2023/papers/Alexandre_Hierarchical_B-Frame_Video_Coding_Using_Two-Layer_CANF_Without_Motion_Coding_CVPR_2023_paper.pdf) | David Alexandre | CVPR 2023 |  |
@@ -86,7 +88,13 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 ### Framework-independent Optimization
 | Models | Paper | First Author | Venue | Project |
 | :--: | :---: | :--: | :--: | :--: |
-|  | [Bit Allocation using Optimization](https://proceedings.mlr.press/v202/xu23c/xu23c.pdf) | Tongda Xu | ICML 2023 |  |
+|  | [Bit Allocation using Optimization](https://proceedings.mlr.press/v202/xu23c/xu23c.pdf) | Tongda Xu | ICML 2023 | [![GitHub Repo stars](https://img.shields.io/github/stars/tongdaxu/Bit-Allocation-Using-Optimization)](https://github.com/tongdaxu/Bit-Allocation-Using-Optimization) |
+
+## Codec Scalability
+| Models | Paper | First Author | Venue | Project |
+| :--: | :---: | :--: | :--: | :--: |
+|  | [High Visual-Fidelity Learned Video Compression](https://dl.acm.org/doi/pdf/10.1145/3581783.3612530) | Meng Li | ACM MM 2023 |  |
+|  | [DeepSVC: Deep Scalable Video Coding for Both Machine and Human Vision](https://dl.acm.org/doi/pdf/10.1145/3581783.3612500) | Hongbin Lin | ACM MM 2023 |  |
 
 ## Codec Practicality
 | Models | Paper | First Author | Venue | Project |
