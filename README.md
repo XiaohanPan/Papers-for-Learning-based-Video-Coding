@@ -96,6 +96,7 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 ## Codec Scalability
 | Models | Paper | First Author | Venue | Project |
 | :--: | :---: | :--: | :--: | :--: |
+|  | [LSSVC: A Learned Spatially Scalable Video Coding Scheme](https://ieeexplore.ieee.org/abstract/document/10521480) | Yifan Bian | TIP 2024 |  |
 |  | [High Visual-Fidelity Learned Video Compression](https://dl.acm.org/doi/pdf/10.1145/3581783.3612530) | Meng Li | ACM MM 2023 |  |
 |  | [DeepSVC: Deep Scalable Video Coding for Both Machine and Human Vision](https://dl.acm.org/doi/pdf/10.1145/3581783.3612500) | Hongbin Lin | ACM MM 2023 |  |
 
