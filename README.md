@@ -66,7 +66,10 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 |  | [MMVC: Learned Multi-Mode Video Compression with Block-based Prediction Mode Selection and Density-Adaptive Entropy Coding](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_MMVC_Learned_Multi-Mode_Video_Compression_With_Block-Based_Prediction_Mode_Selection_CVPR_2023_paper.pdf) | Bowen Liu, Yu Chen | CVPR 2023 |  |
 |  | [Boosting Neural Video Codecs by Exploiting Hierarchical Redundancy](https://openaccess.thecvf.com/content/WACV2023/papers/Pourreza_Boosting_Neural_Video_Codecs_by_Exploiting_Hierarchical_Redundancy_WACV_2023_paper.pdf) | Reza Pourreza | WACV 2023 |  |
 |  | [DMVC: Decomposed Motion Modeling for Learned Video Compression](https://ieeexplore.ieee.org/document/10003249) | Kai Lin | TCSVT 2022 |  |
+|  | [Advancing Learned Video Compression With In-Loop Frame Prediction](https://ieeexplore.ieee.org/abstract/document/9950550) | Ren Yang | TCSVT 2022 |  |
+|  | [Edge-Based Video Compression Texture Synthesis Using Generative Adversarial Network](https://ieeexplore.ieee.org/document/9762281) | Chen Zhu | TCSVT 2022 |  |
 |  | [End-to-End Neural Video Coding Using a Compound Spatiotemporal Representation](https://ieeexplore.ieee.org/document/9707786) | Haojie Liu | TCSVT 2022 |  |
+|  | [AlphaVC: High-Performance and Efficient Learned Video Compression](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136790605.pdf) | Yibo Shi | ECCV 2022 |  |
 | C2F | [Coarse-to-fine Deep Video Coding with Hyperprior-guided Mode Prediction](https://openaccess.thecvf.com/content/CVPR2022/papers/Hu_Coarse-To-Fine_Deep_Video_Coding_With_Hyperprior-Guided_Mode_Prediction_CVPR_2022_paper.pdf) | Zhihao Hu | CVPR 2022 |  |
 | RLVC | [Learning for Video Compression With Recurrent Auto-Encoder and Recurrent Probability Model](https://ieeexplore.ieee.org/abstract/document/9288876) | Ren Yang | JSTSP 2020 | [![GitHub Repo stars](https://img.shields.io/github/stars/RenYang-home/RLVC)](https://github.com/RenYang-home/RLVC) |
 | FVC | [FVC: A New Framework towards Deep Video Compression in Feature Space](https://openaccess.thecvf.com/content/CVPR2021/papers/Hu_FVC_A_New_Framework_Towards_Deep_Video_Compression_in_Feature_CVPR_2021_paper.pdf) | Zhihao Hu | CVPR 2021 | [![GitHub Repo stars](https://img.shields.io/github/stars/ZhihaoHu/PyTorchVideoCompression)](https://github.com/ZhihaoHu/PyTorchVideoCompression/tree/master/FVC) |
@@ -99,6 +102,9 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 |  | [LSSVC: A Learned Spatially Scalable Video Coding Scheme](https://ieeexplore.ieee.org/abstract/document/10521480) | Yifan Bian | TIP 2024 |  |
 |  | [High Visual-Fidelity Learned Video Compression](https://dl.acm.org/doi/pdf/10.1145/3581783.3612530) | Meng Li | ACM MM 2023 |  |
 |  | [DeepSVC: Deep Scalable Video Coding for Both Machine and Human Vision](https://dl.acm.org/doi/pdf/10.1145/3581783.3612500) | Hongbin Lin | ACM MM 2023 |  |
+|  | [Neural Video Compression using GANs for Detail Synthesis and Propagation](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136860549.pdf) | Fabian Mentzer | ECCV 2022 |  |
+|  | [Learning Based Multi-Modality Image and Video Compression](https://openaccess.thecvf.com/content/CVPR2022/papers/Lu_Learning_Based_Multi-Modality_Image_and_Video_Compression_CVPR_2022_paper.pdf) | Guo Lu | CVPR 2022 | [![GitHub Repo stars](https://img.shields.io/github/stars/SZU-AdvTech-2022/165-Learning-based-Multi-modality-Image-and-Video-Compression)](https://github.com/SZU-AdvTech-2022/165-Learning-based-Multi-modality-Image-and-Video-Compression) |
+|  | [Video Coding using Learned Latent GAN Compression](https://dl.acm.org/doi/pdf/10.1145/3503161.3548219) | Mustafa Shukor | ACM MM 2022 |  |
 
 ## Codec Practicality
 | Models | Paper | First Author | Venue | Project |
