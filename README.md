@@ -19,6 +19,7 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
   - [Framework-independent Optimization](#framework-independent-optimization)
 - [Codec Scalability](#codec-scalability)
 - [Codec Practicality](#codec-practicality)
+- [Preprint Papers](#preprint-papers)
 
 ## Codec Performance
 ### Autoencoder based Coding Model
@@ -119,3 +120,9 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 |  | [Sparse-to-Dense: High Efficiency Rate Control for End-to-end Scale-Adaptive Video Coding](https://ieeexplore.ieee.org/document/10246313) | Jiancong Chen | TCSVT 2023 |  |
 |  | [Complexity-guided Slimmable Decoder for Efficient Deep Video Compression](https://openaccess.thecvf.com/content/CVPR2023/papers/Hu_Complexity-Guided_Slimmable_Decoder_for_Efficient_Deep_Video_Compression_CVPR_2023_paper.pdf) | Zhihao Hu | CVPR 2023 |  |
 |  | [FPX-NIC: An FPGA-Accelerated 4K Ultra-High-Definition Neural Video Coding System](https://ieeexplore.ieee.org/document/9745965) | Chuanmin Jia | TCSVT 2022 |  |
+
+## Preprint Papers
+| Models | Paper | First Author | Venue | Project |
+| :--: | :---: | :--: | :--: | :--: |
+|  | [I2VC: A Unified Framework for Intra- & Inter-frame Video Compression](https://arxiv.org/pdf/2405.14336) | Meiqin Liu | arXiv 2024.05 | [![GitHub Repo stars](https://img.shields.io/github/stars/GYukai/I2VC)](https://github.com/GYukai/I2VC) |
+|  | [MambaVC: Learned Visual Compression with Selective State Spaces](https://arxiv.org/abs/2405.15413) | Shiyu Qin | arXiv 2024.05 | [![GitHub Repo stars](https://img.shields.io/github/stars/QinSY123/2024-MambaVC)](https://github.com/QinSY123/2024-MambaVC) |
