@@ -39,6 +39,7 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 #### Conditional Coding
 | Models | Paper | First Author | Venue | Project |
 | :--: | :---: | :--: | :--: | :--: |
+|  | [Prediction and Reference Quality Adaptation for Learned Video Compression](https://arxiv.org/pdf/2406.14118) | Xihua Sheng | arXiv 2024.06 |  |
 | DCVC-FM | [Neural Video Compression with Feature Modulation](https://arxiv.org/abs/2402.17414) | Jiahao Li | CVPR 2024 | [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/DCVC)](https://github.com/microsoft/DCVC/tree/main/DCVC-FM) |
 |  | [Spatial Decomposition and Temporal Fusion based Inter Prediction for Learned Video Compression](https://ieeexplore.ieee.org/abstract/document/10416688) | Xihua Sheng | TCSVT 2024 |  |
 |  | [Exploring Long- and Short-Range Temporal Information for Learned Video Compression](https://ieeexplore.ieee.org/document/10388053) | Huairui Wang | TIP 2024 |  |
@@ -58,6 +59,7 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 #### Residual Coding
 | Models | Paper | First Author | Venue | Project |
 | :--: | :---: | :--: | :--: | :--: |
+|  | [Uncertainty-Aware Deep Video Compression With Ensembles](https://ieeexplore.ieee.org/abstract/document/10461131) | Wufei Ma | TMM 2024 |  |
 |  | [Blurry Video Compression: A Trade-off between Visual Enhancement and Data Compression](https://openaccess.thecvf.com/content/WACV2024/papers/Argaw_Blurry_Video_Compression_A_Trade-Off_Between_Visual_Enhancement_and_Data_WACV_2024_paper.pdf) | Dawit Mureja Argaw | WACV 2024 |  |
 | | [MPAI-EEV: Standardization Efforts of Artificial Intelligence based End-to-End Video Coding](https://ieeexplore.ieee.org/document/10234441) | Chuanmin Jia | TCSVT 2023 | [![Website](https://img.shields.io/badge/Visit-Website-green)](https://mpai.community/standards/mpai-eev/) [![GitHub Repo stars](https://img.shields.io/github/stars/yefeng00/EEV-0.4)](https://github.com/yefeng00/EEV-0.4) |
 |  | [Learned Video Compression via Heterogeneous Deformable Compensation Network](https://ieeexplore.ieee.org/document/10163889) | Huairui Wang | TMM 2023 |  |
