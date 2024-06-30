@@ -90,6 +90,7 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 ### INR based Coding
 | Models | Paper | First Author | Venue | Project |
 | :--: | :---: | :--: | :--: | :--: |
+|  | [Combining Frame and GOP Embeddings for Neural Video Representation](https://openaccess.thecvf.com/content/CVPR2024/papers/Saethre_Combining_Frame_and_GOP_Embeddings_for_Neural_Video_Representation_CVPR_2024_paper.pdf) | Jens Eirik Saethre | CVPR 2024 |  |
 |  | [Boosting Neural Representations for Videos with a Conditional Decoder](https://arxiv.org/pdf/2402.18152.pdf) | Xinjie Zhang | CVPR 2024 |  |
 | HiNeRV | [HiNeRV: Video Compression with Hierarchical Encoding-based Neural Representation](https://proceedings.neurips.cc/paper_files/paper/2023/file/e5dc475c370ff42f2f96dddf8191a40c-Paper-Conference.pdf) | Ho Man Kwan | NeurIPS 2023 | [![GitHub Repo stars](https://img.shields.io/github/stars/hmkx/HiNeRV)](https://github.com/hmkx/HiNeRV) |
 |  | [Video Compression With Entropy-Constrained Neural Representations](https://openaccess.thecvf.com/content/CVPR2023/papers/Gomes_Video_Compression_With_Entropy-Constrained_Neural_Representations_CVPR_2023_paper.pdf) | Carlos Gomes | CVPR 2023 |  |
