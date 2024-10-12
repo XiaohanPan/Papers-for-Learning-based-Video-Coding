@@ -53,6 +53,7 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 | :--: | :---: | :--: | :--: | :--: |
 | VCT | [VCT: A Video Compression Transformer](https://proceedings.neurips.cc/paper_files/paper/2022/file/54dcf25318f9de5a7a01f0a4125c541e-Paper-Conference.pdf) | Fabian Mentzer | NeurIPS 2022 | [![GitHub Repo stars](https://img.shields.io/github/stars/google-research/google-research)](https://github.com/google-research/google-research/tree/master/vct) [![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/NeuralCompression)](https://github.com/facebookresearch/NeuralCompression/tree/main/projects/torch_vct) |
 | -- | [Conditional Entropy Coding for Efficient Video Compression](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123620443.pdf) | Jerry Liu | ECCV 2020 | -- |
+|  | [High-quality Single-model Deep Video Compression with Frame-Conv3D and Multi-frame Differential Modulation](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123750239.pdf) | Wenyu Sun | ECCV 2020 |  |
 | -- | [Video Compression With Rate-Distortion Autoencoders](https://openaccess.thecvf.com/content_ICCV_2019/papers/Habibian_Video_Compression_With_Rate-Distortion_Autoencoders_ICCV_2019_paper.pdf) | Amirhossein Habibian | ICCV 2019 | -- |
 
 ### Hybrid Coding Model
