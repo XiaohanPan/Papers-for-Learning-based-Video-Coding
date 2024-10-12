@@ -24,6 +24,7 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 ## Uncategorized Papers
 | Models | Paper | First Author | Venue | Project |
 | :--: | :---: | :--: | :--: | :--: |
+|  | [SNeRV: Spectra-preserving Neural Representation for Video](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07231.pdf) | Jina Kim* , Jihoo Lee* | ECCV 2024 |  |
 |  | [Efficient Neural Video Representation with Temporally Coherent Modulation](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/09437.pdf) | Seungjun Shin | ECCV 2024 |  |
 |  | [Fast Encoding and Decoding for Implicit Video Representation](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05618.pdf) | Hao Chen | ECCV 2024 |  |
 |  | [High-Efficiency Neural Video Compression via Hierarchical Predictive Learning](https://arxiv.org/pdf/2410.02598) | Ming Lu | arxiv 2024.10 |  |
@@ -33,6 +34,7 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 |  | [All-in-One Image Coding for Joint Human-Machine Vision with Multi-Path Aggregation](https://arxiv.org/pdf/2409.19660) | Xu Zhang | arxiv 2024.09 |  |
 |  | [NVRC: Neural Video Representation Compression](https://arxiv.org/pdf/2409.07414) | Ho Man Kwan | arxiv 2024.09 |  |
 |  | [USTC-TD: A Test Dataset and Benchmark for Image and Video Coding in 2020s](https://arxiv.org/pdf/2409.08481) | Zhuoyuan Li*, Junqi Liao* | arxiv 2024.09 |  |
+|  | [PNVC: Towards Practical INR-based Video Compression](https://arxiv.org/pdf/2409.00953) | Ge Gao | arXiv 2024.09 |  |
 |  | [I2VC: A Unified Framework for Intra- & Inter-frame Video Compression](https://arxiv.org/pdf/2405.14336) | Meiqin Liu | arXiv 2024.05 | [![GitHub Repo stars](https://img.shields.io/github/stars/GYukai/I2VC)](https://github.com/GYukai/I2VC) |
 |  | [MambaVC: Learned Visual Compression with Selective State Spaces](https://arxiv.org/abs/2405.15413) | Shiyu Qin | arXiv 2024.05 | [![GitHub Repo stars](https://img.shields.io/github/stars/QinSY123/2024-MambaVC)](https://github.com/QinSY123/2024-MambaVC) |
 |  | [Task-Aware Encoder Control for Deep Video Compression](https://openaccess.thecvf.com//content/CVPR2024/papers/Ge_Task-Aware_Encoder_Control_for_Deep_Video_Compression_CVPR_2024_paper.pdf) | Xingtong Ge | CVPR 2024 |  |
