@@ -31,13 +31,21 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 |  | [Releasing the Parameter Latency of Neural Representation for High-Efficiency Video Compression](https://arxiv.org/pdf/2410.01654) | Gai Zhang | arxiv 2024.10 |  |
 |  | [Learned Rate Control for Frame-Level Adaptive Neural Video Compression via Dynamic Neural Network](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/11394.pdf) | Chenhao Zhang | ECCV 2024 |  |
 |  | [Free-VSC: Free Semantics from Visual Foundation Models for Unsupervised Video Semantic Compression](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06543.pdf) | Yuan Tian | ECCV 2024 |  |
+|  | [When Video Coding Meets Multimodal Large Language Models: A Unified Paradigm for Video Coding](https://arxiv.org/pdf/2408.08093) | Pingping Zhang | arXiv 2024.08 |  |
 |  | [All-in-One Image Coding for Joint Human-Machine Vision with Multi-Path Aggregation](https://arxiv.org/pdf/2409.19660) | Xu Zhang | arxiv 2024.09 |  |
+|  | [Bi-Directional Deep Contextual Video Compression](https://arxiv.org/pdf/2408.08604) | Xihua Sheng | arXiv 2024.08 |  |
+|  | [Benchmarking Conventional and Learned Video Codecs with a Low-Delay Configuration](https://arxiv.org/pdf/2408.05042) | Siyue Teng | arXiv 2024.08 |  |
 |  | [NVRC: Neural Video Representation Compression](https://arxiv.org/pdf/2409.07414) | Ho Man Kwan | arxiv 2024.09 |  |
 |  | [USTC-TD: A Test Dataset and Benchmark for Image and Video Coding in 2020s](https://arxiv.org/pdf/2409.08481) | Zhuoyuan Li*, Junqi Liao* | arxiv 2024.09 |  |
 |  | [PNVC: Towards Practical INR-based Video Compression](https://arxiv.org/pdf/2409.00953) | Ge Gao | arXiv 2024.09 |  |
 |  | [I2VC: A Unified Framework for Intra- & Inter-frame Video Compression](https://arxiv.org/pdf/2405.14336) | Meiqin Liu | arXiv 2024.05 | [![GitHub Repo stars](https://img.shields.io/github/stars/GYukai/I2VC)](https://github.com/GYukai/I2VC) |
 |  | [MambaVC: Learned Visual Compression with Selective State Spaces](https://arxiv.org/abs/2405.15413) | Shiyu Qin | arXiv 2024.05 | [![GitHub Repo stars](https://img.shields.io/github/stars/QinSY123/2024-MambaVC)](https://github.com/QinSY123/2024-MambaVC) |
 |  | [Task-Aware Encoder Control for Deep Video Compression](https://openaccess.thecvf.com//content/CVPR2024/papers/Ge_Task-Aware_Encoder_Control_for_Deep_Video_Compression_CVPR_2024_paper.pdf) | Xingtong Ge | CVPR 2024 |  |
+|  | [Accelerating Learned Video Compression via Low-Resolution Representation Learning](https://arxiv.org/pdf/2407.16418) | Zidian Qiu | arXiv 2024.07 |  |
+|  | [Latent-INR: A Flexible Framework for Implicit Representations of Videos with Discriminative Semantics](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02356.pdf) | Shishira R Maiya*, Anubhav Gupta* | ECCV 2024 |  |
+|  | [NVC-1B: A Large Neural Video Coding Model](https://arxiv.org/pdf/2407.19402) | Xihua Sheng*, Chuanbo Tang* | arXiv 2024.07 |  |
+|  | [MNeRV: A Multilayer Neural Representation for Videos](https://arxiv.org/pdf/2407.07347) | Qingling Chang | arXiv 2024.07 |  |
+|  | [BVI-AOM: A New Training Dataset for Deep Video Compression Optimization](https://arxiv.org/pdf/2408.03265) | Jakub Nawała*, Yuxuan Jiang* | arXiv 2024.08 |  |
 
 ## Codec Performance
 ### Autoencoder based Coding Model
