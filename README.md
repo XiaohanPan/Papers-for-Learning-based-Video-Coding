@@ -24,6 +24,7 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 ## Uncategorized Papers
 | Models | Paper | First Author | Venue | Project |
 | :--: | :---: | :--: | :--: | :--: |
+|  | [ECVC: Exploiting Non-Local Correlations in Multiple Frames for Contextual Video Compression](https://arxiv.org/abs/2410.09706) | Wei Jiang | arXiv 2024 |  |
 |  | [SNeRV: Spectra-preserving Neural Representation for Video](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07231.pdf) | Jina Kim* , Jihoo Lee* | ECCV 2024 |  |
 |  | [Efficient Neural Video Representation with Temporally Coherent Modulation](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/09437.pdf) | Seungjun Shin | ECCV 2024 |  |
 |  | [Fast Encoding and Decoding for Implicit Video Representation](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05618.pdf) | Hao Chen | ECCV 2024 |  |
